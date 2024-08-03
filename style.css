@@ -1,0 +1,76 @@
+body{
+    background: #18bed1;
+    background: linear-gradient(128deg, rgba(24,190,209,0.4962359943977591) 0%, rgba(24,180,209,0.958420868347339) 100%, rgba(61,33,184,0.19371498599439774) 100%);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    
+
+
+}
+.overall-div{
+    background-color: white;
+    align-self: center;
+    width: 300px;
+    border-radius: 20px;
+    
+    
+    
+}
+.mother-1{
+display: flex;
+justify-content: center;
+padding-top: 50px;
+background-color: #18bed1;
+border-radius: 20px 20px 0px 0px;
+
+
+}
+img{
+    width: 120px;
+    position: relative;
+    top:50px
+    
+    
+
+    
+    
+}
+section{
+    margin-top: 50px;
+    
+}
+.mother-2{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    color:rgb(34, 33, 33);
+    font-weight: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.mother-2 .moth{
+    padding-top: 10px;
+    padding-left: 25px;
+    color:rgb(129, 124, 124);
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.mother-3{
+    display: flex;
+    justify-content: space-between;
+    padding:30px 20px;
+    border-top: 0.5px solid rgb(226, 226, 226);
+    color:rgb(34, 33, 33);
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+.mothera{
+    font-size: xx-small;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(129, 124, 124);
+    
+
+}
